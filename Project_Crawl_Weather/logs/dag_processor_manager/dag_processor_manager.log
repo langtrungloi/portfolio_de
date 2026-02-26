@@ -2527,3 +2527,4 @@ File Path                               PID    Runtime      # DAGs    # Errors  
 /opt/airflow/dags/demo_schedule_dag.py                           0          -1  0.03s           2026-02-26T06:06:28                       0
 ================================================================================
 [2026-02-26T06:06:47.834+0000] {manager.py:1143} ERROR - Processor for /opt/airflow/dags/weather_etl_dag.py exited with return code 1.
+[2026-02-26T06:06:58.926+0000] {manager.py:1143} ERROR - Processor for /opt/airflow/dags/demo_schedule_dag.py exited with return code 1.
