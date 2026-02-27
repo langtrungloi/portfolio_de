@@ -36,6 +36,8 @@ services:
     environment:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__CORE__DEFAULT_TIMEZONE: Asia/Ho_Chi_Minh 
+      AIRFLOW__WEBSERVER__DEFAULT_UI_TIMEZONE: Asia/Ho_Chi_Minh
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
@@ -51,6 +53,8 @@ services:
     environment:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__CORE__DEFAULT_TIMEZONE: Asia/Ho_Chi_Minh
+      AIRFLOW__WEBSERVER__DEFAULT_UI_TIMEZONE: Asia/Ho_Chi_Minh
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs

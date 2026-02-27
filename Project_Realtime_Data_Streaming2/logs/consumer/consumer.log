@@ -1,0 +1,24 @@
+2026-02-26 08:37:58,547 INFO <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: connecting to kafka:9092 [('172.25.0.4', 9092) IPv4]
+2026-02-26 08:37:58,548 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2026-02-26 08:37:58,548 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2026-02-26 08:37:58,549 WARNING No node available during check_version; sleeping 0.04 secs
+2026-02-26 08:37:58,597 INFO <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: connecting to kafka:9092 [('172.25.0.4', 9092) IPv4]
+2026-02-26 08:37:58,599 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2026-02-26 08:37:58,599 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2026-02-26 08:37:58,601 WARNING No node available during check_version; sleeping 0.10 secs
+2026-02-26 08:37:58,699 INFO <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: connecting to kafka:9092 [('172.25.0.4', 9092) IPv4]
+2026-02-26 08:37:58,700 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2026-02-26 08:37:58,701 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2026-02-26 08:37:58,703 WARNING No node available during check_version; sleeping 0.22 secs
+2026-02-26 08:37:58,929 INFO <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: connecting to kafka:9092 [('172.25.0.4', 9092) IPv4]
+2026-02-26 08:37:58,930 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2026-02-26 08:37:58,930 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2026-02-26 08:37:58,930 WARNING No node available during check_version; sleeping 0.44 secs
+2026-02-26 08:37:59,371 INFO <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: connecting to kafka:9092 [('172.25.0.4', 9092) IPv4]
+2026-02-26 08:37:59,372 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2026-02-26 08:37:59,372 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2026-02-26 08:37:59,372 WARNING No node available during check_version; sleeping 0.80 secs
+2026-02-26 08:38:00,172 INFO <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: connecting to kafka:9092 [('172.25.0.4', 9092) IPv4]
+2026-02-26 08:38:00,172 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2026-02-26 08:38:00,172 ERROR <BrokerConnection client_id=kafka-python-2.3.0, node_id=bootstrap-0 host=kafka:9092 <connecting> [IPv4 ('172.25.0.4', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2026-02-26 08:38:00,173 WARNING No node available during check_version; sleeping 0.37 secs
